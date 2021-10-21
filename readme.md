@@ -1,4 +1,4 @@
-# naver_trend_value
+# naver_trend
 
    1. 프로그램 설명
    
@@ -48,5 +48,5 @@ Ex) naver_trend_value/cfg/constants.cfg
 ```
 # 옵션 파일이 cm/cfg 아래에 위치하고, 리포트 이름이 naver_trend 일 경우
 cd bin
-E:\DATA_NAVER_TREND\virtual\Scripts\python km.py --content=naver_trend --config=../cfg/constants.cfg
+E:\DATA_NAVER_TREND\virtual\Scripts\python nt.py --content=naver_trend --config=../cfg/constants.cfg
 ```
