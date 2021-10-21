@@ -1,0 +1,13 @@
+test/
+data/
+cfg/
+.ipynb_checkpoints/
+.idea/
+oracle/
+__pycache__/
+log/
+*.egg-info/
+images/
+virtual/
+.vscode/
+

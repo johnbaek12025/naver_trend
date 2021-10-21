@@ -1,0 +1,1 @@
+E:\NAVER\virtual\Scripts\python km.py --content=naver_trend --config=../cfg/constants.cfg
